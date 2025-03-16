@@ -1,4 +1,4 @@
 function sum(a, b) {
     return a + b;
 }
-sum(1, 2); // 3
+sum(5, 4); // 9
