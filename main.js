@@ -1,4 +1,4 @@
-function sum(a, b) {
-    return a - b;
+function division(a, b) {
+    return a / b;
 }
-sum(5, 4); // 1
+sum(10, 2); // 5
